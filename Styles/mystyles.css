@@ -1,0 +1,68 @@
+header img{
+    height: 140px;
+    width: 200px;
+    vertical-align: middle;
+}
+
+header1{
+    color:rgb(9, 108, 92)
+}
+
+
+body{
+    background-color: rgb(212, 223, 222)
+}
+
+section{
+    font-family: 'Raleway', sans-serif;
+    color:rgb(0, 38, 38)
+}
+
+.indent {
+    display: list-item;
+    margin-left: 15px;
+    padding-left:-4px;
+}
+
+.header {
+    font-family: 'Pacifico', cursive;
+    font-size: 2em
+}
+
+
+
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: rgb(255, 221, 208)
+}
+
+.active {
+    background-color: coral
+}
+
+.card {
+    box-shadow: o 4px 8px 0 rgba(0, 0, 0, .2);
+    transition: .3s;
+    border-radius: 15px;
+    width:800px;
+    margin:auto;
+    Background-color: rgb(77, 34, 18)
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+img {
+    border-radius: 15px 15px 0 0;
+}
